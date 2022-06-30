@@ -1,0 +1,5 @@
+puddle_round
+puddle_elongated
+flooded_big
+flooded_small
+flooded_furrow
